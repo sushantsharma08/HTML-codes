@@ -1,0 +1,25 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.623);
+    display: flex;
+    justify-content: center;
+    height: 120vh;
+    align-items: center;
+}
+.Sqbox{
+    /* display: flex; */
+    height: 40px;
+    width: 40px;
+    background: rgba(0, 255, 255, 0.596);
+}
+.rectangle{
+    height: 60px ;
+    width: 110px;
+    background: rgba(255, 0, 0, 0.37);
+}
+.rectangle{
+    background: scroll red;
+
+}
