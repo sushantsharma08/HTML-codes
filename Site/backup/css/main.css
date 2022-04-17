@@ -1,8 +1,9 @@
 .mainBody{
-    background-color: rgba(95, 89, 89, 0.253);
+    background-color: #fafafa;
+
 }
 nav{
-    background-color: rgba(67, 64, 70, 0.445);
+    background-color: rgba(131, 106, 156, 0.445);
     border-radius: 20px;
     font-size: large;
 } 
@@ -24,8 +25,8 @@ a.header1:hover{
     border-radius: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-left: 14px;
-    margin-right: 14px;
+    /* margin-left: 14px;
+    margin-right: 14px; */
 }
 .footercss{
     background-color: rgba(137, 96, 179, 0.445);
