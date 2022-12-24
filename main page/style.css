@@ -13,3 +13,12 @@ hr{
 ul{
     margin-left: 10vw;
 }
+.items-div:hover{
+    padding: 12px;
+    padding-inline: 14px;
+    transition: 1s;
+
+}
+.items-div:hover .bi{
+        color: rgb(207, 223, 240);
+}
