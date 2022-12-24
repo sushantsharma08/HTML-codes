@@ -5,6 +5,7 @@
     color:rgb(3, 3, 3);
     font-size:large;
     font-weight: 500;
+    transition: 1s;
 }
 hr{
     background-color: black;
@@ -16,7 +17,7 @@ ul{
 .items-div:hover{
     padding: 12px;
     padding-inline: 14px;
-    transition: 1s;
+    transition: 0.5s;
 
 }
 .items-div:hover .bi{
