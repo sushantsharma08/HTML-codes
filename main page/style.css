@@ -1,0 +1,15 @@
+.items-div{
+    border-radius: 30px;
+    border-color: rgb(158, 158, 158);
+    background:linear-gradient(30deg,rgba(0, 0, 0, 0.507),rgba(108, 138, 158, 0.521),rgba(29, 29, 97, 0.363),rgba(153, 146, 147, 0.527));
+    color:rgb(3, 3, 3);
+    font-size:large;
+    font-weight: 500;
+}
+hr{
+    background-color: black;
+    border: 1px solid rgb(143, 143, 143);
+}
+ul{
+    margin-left: 10vw;
+}
